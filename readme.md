@@ -13,20 +13,6 @@ PHP em todas suas instâncias.
 
 ---
 
-<!-- ## Funcionamento
-Envio de dados de login são enviados por método POST ao servidor, que submete os dados para o script
-valida_login responsável pela autenticação. O servidor cria uma sessão requisitada pelo navegador e 
-deste modo, o script validador_acesso fica disponível para ser chamado pelas outras páginas da aplicação  
-e impedir que um usuário não autenticado acesse-as. 
-
-Para registrar chamados, a página abrir_chamados encanminha o chamado por método GET ao servidor, 
-
-
-
-O cliente submete parâmetros para o formulário de login, o formulário envia a requisação HTTP através do método POST, para o servidor. O servidor submete os parâmetros para o script valida_login, recebe a resposta de autenticação do script e retorna essa resposta para o cliente.
-
---- -->
-
 ## conceitos e recursos utilizados durante o projeto:
 - Protocolo HTTP
 - Métodos GET/POST
