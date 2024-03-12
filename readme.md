@@ -22,5 +22,3 @@ PHP em todas suas instâncias.
 - incorporação de scripts com include e require
 - logoff com session_destroy ou unset
 - manipulação de arquivos em PHP
-
-> Utilizei pacote XAMPP para acessar a aplicação em Local Host.
